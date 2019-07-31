@@ -1,0 +1,94 @@
+
+.navbar {
+	display: flex;
+	content-direction: row;
+	justify-content: flex-start;
+	list-style-type: none;
+	text-decoration: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #C71585;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+.finavbar
+{
+
+
+  display: block;
+  
+  text-align: center;
+  padding: 30px 16px;
+ 
+}
+a:link {
+  color: 	white ; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+
+.parent {
+  display: flex;
+  justify-content: space-between ;
+  flex-wrap: nowrap;
+  padding-top: 150px;
+   
+  
+}
+.limCont{
+ display: flex;
+ justify-content: flex-start;
+ flex-direction: column;
+
+
+}
+
+.limin {
+ display: flex;
+ justify-content: flex-start;
+   
+
+}
+
+.lissCont {
+display: flex;
+ justify-content: flex-end;
+ flex-direction: column;
+
+
+}
+.lissar {
+
+
+    display: flex;           
+    align-items: flex-start;     
+   /* height: 300px;*/
+
+
+}
+.westCont {
+
+ justify-content: center ;
+ justify-content: row;
+ margin-left: 10px;
+ margin-right: 10px;
+
+
+
+	
+}
+.west{
+align-self: center;
+justify-content: space-around;
+
+}
+
+
+
+
+
+
